@@ -66,13 +66,13 @@ Power BI • Tableau
 
 ### ⚙️ Automatización & Desarrollo
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50"/>
   <img src="assets/icons/googlecolab.png" width="65"/>
 </p>
 
 <p>
-GitHub • VS Code • Bash • ChatGPT • Google Colab
+GitHub • VS Code • ChatGPT • Google Colab
 </p>
 
 ---
