@@ -1,9 +1,9 @@
-# Denise-Hernandez-Gonzalez
+
 
 <h1 align="center">
   <span style="color:#2C7AC3;">D</span>enise 
   <span style="color:#6B8E23;">H</span>ernández
-  <img src="assets/icons/marcapersonal.png" width="55"/>
+  <img src="assets/icons/den.png" width="60"/>
 </h1>
 
 <h3 align="center">GIS Analyst | Spatial Data | Network Analysis | Data & Automation</h3>
@@ -30,7 +30,7 @@ Actualmente desarrollando soluciones de GIS aplicadas a infraestructura, anális
 
 ### 🌍 GIS & Spatial Analysis
 <p>
-  <img src="assets/icons/arcgis-pro.png" width="50"/>
+  <img src="assets/icons/arcgispro.png" width="50"/>
   <img src="assets/icons/arcgisonline.png" width="50"/>
   <img src="assets/icons/leaflet.png" width="50"/>
 </p>
@@ -84,17 +84,6 @@ Claude • GitHub Copilot • AI Agents • n8n
 - Diseño de workflows para captura, validación y carga de datos  
 - Coordinación con equipos de campo e integridad  
 - Seguimiento de reemplazos de ductos y actualización en GIS  
-
----
-
-## 🧠 Explorando en 2026
-
-- Automatización de procesos GIS con Python  
-- Integración GIS + Data Analytics  
-- AI aplicada a análisis y desarrollo  
-- Modelado de datos y workflows inteligentes  
-- Sistemas basados en agentes IA  
-- Mejora continua en calidad y gobernanza de datos  
 
 ---
 
