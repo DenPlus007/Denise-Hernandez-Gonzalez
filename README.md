@@ -26,7 +26,7 @@ Actualmente desarrollando soluciones de GIS aplicadas a infraestructura, anális
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y Herramientas
 
 ### 🌍 GIS & Spatial Analysis
 <p>
