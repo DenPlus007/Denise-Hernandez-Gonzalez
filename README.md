@@ -3,7 +3,7 @@
 <h1 align="center">
   <span style="color:#2C7AC3;">D</span>enise 
   <span style="color:#6B8E23;">H</span>ernández
-  <img src="assets/icons/den.png" width="60"/>
+  <img src="assets/icons/den.png" width="85" style="vertical-align: middle; margin-left: 10px;"/>
 </h1>
 
 <h3 align="center">GIS Analyst | Spatial Data | Network Analysis | Data & Automation</h3>
@@ -46,7 +46,7 @@ Actualmente desarrollando soluciones de GIS aplicadas a infraestructura, anális
 
 ### 📈 Visualización
 <p>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
   <img src="assets/icons/tableau.png" width="50"/>
 </p>
 
@@ -84,6 +84,17 @@ Claude • GitHub Copilot • AI Agents • n8n
 - Diseño de workflows para captura, validación y carga de datos  
 - Coordinación con equipos de campo e integridad  
 - Seguimiento de reemplazos de ductos y actualización en GIS  
+
+---
+
+## 🧠 Explorando en 2026
+
+- Automatización de procesos GIS con Python  
+- Integración GIS + Data Analytics  
+- AI aplicada a análisis y desarrollo  
+- Modelado de datos y workflows inteligentes  
+- Sistemas basados en agentes IA  
+- Mejora continua en calidad y gobernanza de datos  
 
 ---
 
@@ -142,6 +153,12 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 🔗 <a href="https://www.linkedin.com/in/denise-hern%C3%A1ndez-a3071968/">LinkedIn</a><br>
 📧 <a href="mailto:denise.hernandez.ar@gmail.com">denise.hernandez.ar@gmail.com</a><br>
 📓 <a href="https://quickest-stream-2d8.notion.site/Portafolio-GIS-Denise-Hern-ndez-3069dd2d2c5781cd9539e5bdc0ba14fe?pvs=74">Portafolio Notion</a>
+</p>
+
+---
+
+<p align="center">
+⭐ Construyendo soluciones geoespaciales con impacto real
 </p>
 
 ---
