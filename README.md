@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Denise Hernández 👋</h1> <h3 align="center">GIS Analyst | Spatial Data | Network Analysis | Data & Automation</h3> <p align="center"> Apasionada por el análisis geoespacial, la calidad de datos y la optimización de procesos mediante tecnología. Actualmente enfocada en GIS aplicado a infraestructura, análisis de datos, automatización y soluciones basadas en IA. </p>
+<h1 align="center">Denise Hernández 👋</h1> <h3 align="center">GIS Analyst | Spatial Data | Network Analysis | Data & Automation</h3> <p align="center"> Apasionada por el análisis geoespacial, la calidad de datos y la optimización de procesos mediante tecnología. Actualmente enfocada en GIS aplicado a infraestructura, análisis de datos, automatización y soluciones basadas en IA. </p>
 🚀 Sobre mí
 
 🔹 Analista GIS con experiencia en infraestructura energética y redes viales.
