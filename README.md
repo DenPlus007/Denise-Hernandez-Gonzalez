@@ -1,4 +1,4 @@
-# Denise-Hernandez-Gonzalez
+
 
 <h1 align="center">
   <span style="color:#2C7AC3;">D</span>enise 
@@ -46,7 +46,7 @@ Actualmente desarrollando soluciones de GIS aplicadas a infraestructura, anális
 
 ### 📈 Visualización
 <p>
-  <img src="assets/icons/powerbi.png" width="50"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50"/>
   <img src="assets/icons/tableau.png" width="50"/>
 </p>
 
@@ -56,15 +56,15 @@ Actualmente desarrollando soluciones de GIS aplicadas a infraestructura, anális
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode,bash" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="65"/>
 </p>
 
 ---
 
 ### 🤖 IA aplicada
 <p>
-  <img src="https://cdn.simpleicons.org/anthropic" width="50"/>
-  <img src="https://cdn.simpleicons.org/githubcopilot" width="50"/>
+  <img src="https://cdn.simpleicons.org/anthropic/white" width="50"/>
+  <img src="https://cdn.simpleicons.org/githubcopilot/white" width="50"/>
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50"/>
 </p>
 
@@ -157,6 +157,9 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 
 ---
 
+<p align="center">
+⭐ Construyendo soluciones geoespaciales con impacto real
+</p>
 <p align="center">
 ⭐ Construyendo soluciones geoespaciales con impacto real
 </p>l
