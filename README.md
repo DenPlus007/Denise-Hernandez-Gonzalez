@@ -1,4 +1,33 @@
-<h1 align="center">Denise Hernández 👋</h1>
+# Denise-Hernandez-Gonzalez
+
+<h1 align="center">
+  <span style="color:#2C7AC3;">D</span>enise 
+  <span style="color:#6B8E23;">H</span>ernández
+
+  <svg width="70" height="70" viewBox="0 0 100 100" style="vertical-align: middle; margin-left: 12px;">
+    
+    <!-- círculo -->
+    <circle cx="50" cy="50" r="45" stroke="#2C7AC3" stroke-width="3" fill="none"/>
+
+    <!-- nodos animados -->
+    <circle cx="70" cy="30" r="4" fill="#6B8E23">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="80" cy="50" r="4" fill="#6B8E23">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="65" cy="65" r="4" fill="#6B8E23">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="50" cy="40" r="4" fill="#6B8E23">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+
+  </svg>
+</h1>
 
 <h3 align="center">GIS Analyst | Spatial Data | Network Analysis | Data & Automation</h3>
 
@@ -24,8 +53,8 @@ Actualmente desarrollando soluciones de GIS aplicadas a infraestructura, anális
 
 ### 🌍 GIS & Spatial Analysis
 <p>
-  <img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ArcGIS%20Online-0079C1?style=for-the-badge" />
+  <img src="./assets/icons/arcgis-pro.png" width="60"/>
+  <img src="./assets/icons/arcgis-online.png" width="60"/>
   <img src="https://cdn.simpleicons.org/leaflet/199900" width="40"/>
 </p>
 
@@ -40,8 +69,8 @@ Actualmente desarrollando soluciones de GIS aplicadas a infraestructura, anális
 
 ### 📈 Visualización
 <p>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40"/>
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="40"/>
+  <img src="./assets/icons/powerbi.png" width="60"/>
+  <img src="./assets/icons/tableau.png" width="60"/>
 </p>
 
 ---
@@ -81,62 +110,41 @@ Claude • GitHub Copilot • AI Agents • n8n
 
 ---
 
-## 🧠 Explorando en 2026
-
-- Automatización de procesos GIS con Python  
-- Integración GIS + Data Analytics  
-- AI aplicada a análisis y desarrollo  
-- Modelado de datos y workflows inteligentes  
-- Sistemas basados en agentes IA  
-- Mejora continua en calidad y gobernanza de datos  
-
----
-
 ## 📂 Proyectos Destacados
-
----
 
 ### 🛢️ Pipeline Replacement Tracking
 <p>
-  <img src="https://img.shields.io/badge/Pipeline%20Tracking-6E2C00?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pipeline%20Tracking-6E2C00?style=for-the-badge" />
 </p>
 
 Seguimiento, validación y actualización de ductos en GIS, asegurando calidad y consistencia de datos  
-
-🔹 Tools: ArcGIS Pro • Data Validation • GIS Editing • SQL  
 
 ---
 
 ### ⚡ Electrical Network Modeling
 <p>
-  <img src="https://img.shields.io/badge/Electrical%20Network-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Electrical%20Network-F1C40F?style=for-the-badge" />
 </p>
 
 Modelado y edición de redes eléctricas, incluyendo líneas, subestaciones y equipos  
-
-🔹 Tools: ArcGIS Pro • Network Analyst • Spatial Modeling  
 
 ---
 
 ### 🛣️ Road Network Management
 <p>
-  <img src="https://img.shields.io/badge/Road%20Network-34495E?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Road%20Network-34495E?style=for-the-badge" />
 </p>
 
 Edición y análisis de caminos de acceso, conectividad y jerarquía de red  
-
-🔹 Tools: ArcGIS Pro • GIS Editing • Topology  
 
 ---
 
 ### 🧹 Data Cleaning & Standardization
 <p>
-  <img src="https://img.shields.io/badge/Data%20Quality-2ECC71?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Quality-2ECC71?style=for-the-badge" />
 </p>
 
 Procesos de saneamiento y normalización de bases GIS con mejora de calidad y eficiencia  
-
-🔹 Tools: Python • SQL • Data Cleaning • ETL  
 
 ---
 
