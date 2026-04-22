@@ -1,5 +1,3 @@
-## Denise-Hernandez-Gonzalez
-
 <h1 align="center">Denise Hernández 👋</h1>
 
 <h3 align="center">GIS Analyst | Spatial Data | Network Analysis | Data & Automation</h3>
