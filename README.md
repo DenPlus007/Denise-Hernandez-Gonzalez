@@ -35,11 +35,19 @@ Actualmente desarrollando soluciones de GIS aplicadas a infraestructura, anális
   <img src="assets/icons/leaflet.png" width="50"/>
 </p>
 
+<p>
+ArcGIS Pro • ArcGIS Online • Leaflet
+</p>
+
 ---
 
 ### 📊 Data Analytics
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql,sqlite" />
+</p>
+
+<p>
+Python • MySQL • SQLite
 </p>
 
 ---
@@ -50,13 +58,21 @@ Actualmente desarrollando soluciones de GIS aplicadas a infraestructura, anális
   <img src="assets/icons/tableau.png" width="50"/>
 </p>
 
+<p>
+Power BI • Tableau
+</p>
+
 ---
 
 ### ⚙️ Automatización & Desarrollo
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode,bash" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="65"/>
+  <img src="assets/icons/googlecolab.png" width="65"/>
+</p>
+
+<p>
+GitHub • VS Code • Bash • ChatGPT • Google Colab
 </p>
 
 ---
@@ -136,7 +152,7 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 
 ---
 
-## 📚 Actualmente enfocado en
+## 📚 Actualmente enfocada en
 
 ✔️ Network Analysis en ArcGIS  
 ✔️ Python aplicado a GIS  
@@ -160,5 +176,3 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 <p align="center">
 ⭐ Construyendo soluciones geoespaciales con impacto real
 </p>
-
----
