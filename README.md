@@ -1,4 +1,4 @@
-
+# Denise-Hernandez-Gonzalez
 
 <h1 align="center">
   <span style="color:#2C7AC3;">D</span>enise 
@@ -159,8 +159,4 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 
 <p align="center">
 ⭐ Construyendo soluciones geoespaciales con impacto real
-</p>
-<p align="center">
-⭐ Construyendo soluciones geoespaciales con impacto real
-</p>l
 </p>
