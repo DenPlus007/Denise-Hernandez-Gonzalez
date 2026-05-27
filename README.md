@@ -278,7 +278,7 @@ ArcGIS Pro • ArcMap • Network Analysis • QA/QC • GIS Editing • Spatial
 ### 🖼️ Blockage Analysis Overview
 
 <p align="center">
-  <img src="assets/icons/road-network-overview.jpg" width="950"/>
+  <img src="assets/icons/02-blockage-analysis.jpg" width="950"/>
 </p>
 
 ---
@@ -313,11 +313,6 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 📓 <a href="https://quickest-stream-2d8.notion.site/Portafolio-GIS-Denise-Hern-ndez-3069dd2d2c5781cd9539e5bdc0ba14fe?pvs=74">Portafolio Notion</a>
 </p>
 
----
-
-<p align="center">
-⭐ Construyendo soluciones geoespaciales con impacto real
-</p>
 ---
 
 <p align="center">
