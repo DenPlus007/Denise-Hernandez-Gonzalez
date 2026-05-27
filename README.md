@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="assets/icons/DEN.png" width="1000"/>
+  <img src="assets/icons/DEN.png" width="550"/>
 </p>
 
 <h3 align="center">GIS Analyst | Spatial Data | Network Analysis | Data & Automation</h3>
