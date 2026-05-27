@@ -140,7 +140,7 @@ Claude • GitHub Copilot • AI Agents • n8n
 ## 🌎 EcoMap PP — Interactive Commercial & Regulatory Risk Map
 
 <p>
-  <a href="https://denplus007.github.io/Denise-Hernandez-Gonzalez/demo.mp4" target="_blank">
+  <a href="https://raw.githubusercontent.com/DenPlus007/Denise-Hernandez-Gonzalez/main/demo.mp4" target="_blank">
     <img src="https://img.shields.io/badge/DEMO-2C7AC3?style=for-the-badge" />
   </a>
 
@@ -170,7 +170,7 @@ Leaflet • JavaScript • HTML • CSS • OpenStreetMap • GitHub Pages
 
 ### 🚀 Demo & Repositorio
 
-🌐 <a href="https://denplus007.github.io/Denise-Hernandez-Gonzalez/demo.mp4" target="_blank">Demo Video</a>
+🌐 <a href="https://raw.githubusercontent.com/DenPlus007/Denise-Hernandez-Gonzalez/main/demo.mp4" target="_blank">Demo Video</a>
 
 🌍 <a href="https://denplus007.github.io/ecommercemap-parque-patricios/" target="_blank">Interactive App</a>
 
@@ -240,6 +240,7 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 🔗 <a href="https://www.linkedin.com/in/denise-hern%C3%A1ndez-a3071968/">LinkedIn</a><br>
 📧 <a href="mailto:denise.hernandez.ar@gmail.com">denise.hernandez.ar@gmail.com</a><br>
 📓 <a href="https://quickest-stream-2d8.notion.site/Portafolio-GIS-Denise-Hern-ndez-3069dd2d2c5781cd9539e5bdc0ba14fe?pvs=74">Portafolio Notion</a>
+</p>
 </p>
 ---
 
