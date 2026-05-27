@@ -178,6 +178,12 @@ Leaflet • JavaScript • HTML • CSS • OpenStreetMap • GitHub Pages
 
 📄 <a href="https://github.com/DenPlus007/ecoomercemap-parque-patricios/blob/main/README.md" target="_blank">Project Documentation</a>
 
+### 🖼️ Captura
+
+<p align="center">
+  <img src="assets/projects/ecomap.jpg" width="950"/>
+</p>
+
 ### 📚 Contexto
 
 Proyecto desarrollado como práctica aplicada de un curso de Mapas Interactivos con Leaflet (Udemy), expandido con conceptos de análisis territorial, visualización GIS web y lógica de riesgo regulatorio.
@@ -192,7 +198,26 @@ Proyecto desarrollado como práctica aplicada de un curso de Mapas Interactivos 
   </a>
 </p>
 
-Seguimiento, validación y actualización de ductos en GIS, asegurando calidad y consistencia de datos.
+Seguimiento, validación y actualización de ductos en GIS, asegurando calidad y consistencia espacial de datos de infraestructura.
+
+### 🔹 Funcionalidades
+
+- Seguimiento de reemplazo de ductos
+- Validación espacial de trazas
+- Actualización GIS de infraestructura lineal
+- Control de calidad geométrico
+- Normalización de atributos
+- Verificación de consistencia topológica
+
+### 🛠️ Tecnologías
+
+ArcGIS Pro • ArcMap • Geometric Editing • QA/QC • Excel • GIS Infrastructure
+
+### 🖼️ Captura
+
+<p align="center">
+  <img src="assets/projects/pipeline-tracking.jpg" width="950"/>
+</p>
 
 ---
 
@@ -204,7 +229,26 @@ Seguimiento, validación y actualización de ductos en GIS, asegurando calidad y
   </a>
 </p>
 
-Modelado y edición de redes eléctricas, incluyendo líneas, subestaciones y equipos.
+Modelado y edición de redes eléctricas en entorno GIS, incluyendo validación topológica, conectividad y control de calidad espacial.
+
+### 🔹 Funcionalidades
+
+- Modelado de redes eléctricas
+- Geometric Network
+- Validación de conectividad
+- QA/QC espacial
+- Corrección de errores BUILDERR
+- Gestión de líneas y subestaciones
+
+### 🛠️ Tecnologías
+
+ArcGIS Pro • ArcMap • Geometric Network • Python/arcpy • SQL • GIS QA/QC
+
+### 🖼️ Captura
+
+<p align="center">
+  <img src="assets/projects/electrical-network.jpg" width="950"/>
+</p>
 
 ---
 
@@ -248,6 +292,11 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 📓 <a href="https://quickest-stream-2d8.notion.site/Portafolio-GIS-Denise-Hern-ndez-3069dd2d2c5781cd9539e5bdc0ba14fe?pvs=74">Portafolio Notion</a>
 </p>
 
+---
+
+<p align="center">
+⭐ Construyendo soluciones geoespaciales con impacto real
+</p>
 ---
 
 <p align="center">
