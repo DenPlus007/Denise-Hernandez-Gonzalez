@@ -55,8 +55,8 @@ ArcGIS Pro • ArcGIS Online • Leaflet
     <img src="https://cdn.simpleicons.org/html5/E34F26" width="45"/>
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" width="45"/>
+  <a href="https://denplus007.github.io/ecommercemap-parque-patricios/" target="_blank">
+    <img src="assets/icons/spatial.png" width="45"/>
   </a>
 </p>
 
