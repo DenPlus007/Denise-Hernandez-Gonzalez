@@ -144,7 +144,7 @@ Claude • GitHub Copilot • AI Agents • n8n
     <img src="https://img.shields.io/badge/DEMO-2C7AC3?style=for-the-badge" />
   </a>
 
-  <a href="https://leafletjs.com/reference.html" target="_blank">
+  <a href="https://github.com/DenPlus007/ecoomercemap-parque-patricios/blob/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/DOCUMENTATION-199900?style=for-the-badge" />
   </a>
 
@@ -175,6 +175,8 @@ Leaflet • JavaScript • HTML • CSS • OpenStreetMap • GitHub Pages
 🌍 <a href="https://denplus007.github.io/ecoomercemap-parque-patricios/" target="_blank">Interactive App</a>
 
 💻 <a href="https://github.com/DenPlus007/ecoomercemap-parque-patricios" target="_blank">Repositorio GitHub</a>
+
+📄 <a href="https://github.com/DenPlus007/ecoomercemap-parque-patricios/blob/main/README.md" target="_blank">Project Documentation</a>
 
 ### 📚 Contexto
 
