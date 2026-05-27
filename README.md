@@ -184,20 +184,24 @@ Proyecto desarrollado como práctica aplicada de un curso de Mapas Interactivos 
 
 ---
 
-## 🛢️ Pipeline Replacement Tracking
+## 🛢️ <a href="https://github.com/DenPlus007/gis-pipeline-replacement-tracking" target="_blank">Pipeline Replacement Tracking</a>
 
 <p>
-  <img src="https://img.shields.io/badge/Pipeline%20Tracking-6E2C00?style=for-the-badge" />
+  <a href="https://github.com/DenPlus007/gis-pipeline-replacement-tracking" target="_blank">
+    <img src="https://img.shields.io/badge/Pipeline%20Tracking-6E2C00?style=for-the-badge" />
+  </a>
 </p>
 
 Seguimiento, validación y actualización de ductos en GIS, asegurando calidad y consistencia de datos.
 
 ---
 
-## ⚡ Electrical Network Modeling
+## ⚡ <a href="https://github.com/DenPlus007/gis-electrical-network-modeling" target="_blank">Electrical Network Modeling</a>
 
 <p>
-  <img src="https://img.shields.io/badge/Electrical%20Network-F1C40F?style=for-the-badge" />
+  <a href="https://github.com/DenPlus007/gis-electrical-network-modeling" target="_blank">
+    <img src="https://img.shields.io/badge/Electrical%20Network-F1C40F?style=for-the-badge" />
+  </a>
 </p>
 
 Modelado y edición de redes eléctricas, incluyendo líneas, subestaciones y equipos.
@@ -243,6 +247,7 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 📧 <a href="mailto:denise.hernandez.ar@gmail.com">denise.hernandez.ar@gmail.com</a><br>
 📓 <a href="https://quickest-stream-2d8.notion.site/Portafolio-GIS-Denise-Hern-ndez-3069dd2d2c5781cd9539e5bdc0ba14fe?pvs=74">Portafolio Notion</a>
 </p>
+
 ---
 
 <p align="center">
