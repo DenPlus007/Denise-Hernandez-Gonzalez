@@ -172,7 +172,7 @@ Leaflet • JavaScript • HTML • CSS • OpenStreetMap • GitHub Pages
 
 🌐 <a href="https://raw.githubusercontent.com/DenPlus007/Denise-Hernandez-Gonzalez/main/demo.mp4" target="_blank">Demo Video</a>
 
-🌍 <a href="https://denplus007.github.io/ecommercemap-parque-patricios/" target="_blank">Interactive App</a>
+🌍 <a href="https://denplus007.github.io/ecoomercemap-parque-patricios/" target="_blank">Interactive App</a>
 
 💻 <a href="https://github.com/DenPlus007/ecoomercemap-parque-patricios" target="_blank">Repositorio GitHub</a>
 
@@ -240,7 +240,6 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 🔗 <a href="https://www.linkedin.com/in/denise-hern%C3%A1ndez-a3071968/">LinkedIn</a><br>
 📧 <a href="mailto:denise.hernandez.ar@gmail.com">denise.hernandez.ar@gmail.com</a><br>
 📓 <a href="https://quickest-stream-2d8.notion.site/Portafolio-GIS-Denise-Hern-ndez-3069dd2d2c5781cd9539e5bdc0ba14fe?pvs=74">Portafolio Notion</a>
-</p>
 </p>
 ---
 
