@@ -43,33 +43,17 @@ ArcGIS Pro • ArcGIS Online • Leaflet
 ## 🌐 WebGIS & Interactive Mapping
 
 <p>
-  <a href="https://www.openstreetmap.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Openstreetmap_logo.svg" width="45"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Openstreetmap_logo.svg" width="45"/>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45"/>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" width="45"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="45"/>
 
-  <a href="https://denplus007.github.io/ecommercemap-parque-patricios/" target="_blank">
-    <img src="assets/icons/spatial.png" width="45"/>
-  </a>
+  <img src="assets/icons/spatial.png" width="45"/>
 </p>
 
 <p>
-  <a href="https://www.openstreetmap.org/" target="_blank">
-    OpenStreetMap
-  </a> • 
-
-  <a href="https://denplus007.github.io/ecommercemap-parque-patricios/" target="_blank">
-    WebGIS
-  </a> • 
-
-  Interactive Mapping • Spatial Visualization
+OpenStreetMap • WebGIS • Interactive Mapping • Spatial Visualization
 </p>
 
 ---
@@ -182,12 +166,7 @@ Aplicación WebGIS interactiva desarrollada para visualización y análisis terr
 
 ### 🛠️ Tecnologías
 
-<a href="https://leafletjs.com/" target="_blank">Leaflet</a> • 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a> • 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a> • 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a> • 
-<a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> • 
-<a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+Leaflet • JavaScript • HTML • CSS • OpenStreetMap • GitHub Pages
 
 ### 🚀 Demo & Repositorio
 
