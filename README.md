@@ -61,9 +61,15 @@ ArcGIS Pro • ArcGIS Online • Leaflet
 </p>
 
 <p>
-<a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> • 
-<a href="https://denplus007.github.io/ecommercemap-parque-patricios/" target="_blank">WebGIS</a> • 
-Interactive Mapping • Spatial Visualization
+  <a href="https://www.openstreetmap.org/" target="_blank">
+    OpenStreetMap
+  </a> • 
+
+  <a href="https://denplus007.github.io/ecommercemap-parque-patricios/" target="_blank">
+    WebGIS
+  </a> • 
+
+  Interactive Mapping • Spatial Visualization
 </p>
 
 ---
