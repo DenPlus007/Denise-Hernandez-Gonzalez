@@ -140,7 +140,7 @@ Claude • GitHub Copilot • AI Agents • n8n
 ## 🌎 EcoMap PP — Interactive Commercial & Regulatory Risk Map
 
 <p>
-  <a href="https://denplus007.github.io/ecommercemap-parque-patricios/assets/demo.mp4" target="_blank">
+  <a href="https://denplus007.github.io/Denise-Hernandez-Gonzalez/demo.mp4" target="_blank">
     <img src="https://img.shields.io/badge/DEMO-2C7AC3?style=for-the-badge" />
   </a>
 
@@ -170,7 +170,7 @@ Leaflet • JavaScript • HTML • CSS • OpenStreetMap • GitHub Pages
 
 ### 🚀 Demo & Repositorio
 
-🌐 <a href="https://denplus007.github.io/ecommercemap-parque-patricios/assets/demo.mp4" target="_blank">Demo Video</a>
+🌐 <a href="https://denplus007.github.io/Denise-Hernandez-Gonzalez/demo.mp4" target="_blank">Demo Video</a>
 
 🌍 <a href="https://denplus007.github.io/ecommercemap-parque-patricios/" target="_blank">Interactive App</a>
 
