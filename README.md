@@ -185,7 +185,7 @@ Leaflet • JavaScript • HTML • CSS • OpenStreetMap • GitHub Pages
 ### 🖼️ Regulatory Risk Overview
 
 <p align="center">
-  <img src="assets/icons/thumbnail_ecomap_pp_linkedin.jpg" width="950"/>
+  <img src="assets/icons/thumbnail_ecomap_pp_linkedin.jpg" width="475"/>
 </p>
 
 ### 📚 Contexto
@@ -220,7 +220,7 @@ ArcGIS Pro • ArcMap • Geometric Editing • QA/QC • Excel • GIS Infrastr
 ### 🖼️ Pipeline Workflow Overview
 
 <p align="center">
-  <img src="assets/icons/01-pipeline-workflow.jpg" width="950"/>
+  <img src="assets/icons/01-pipeline-workflow.jpg" width="475"/>
 </p>
 
 ---
@@ -251,7 +251,7 @@ ArcGIS Pro • ArcMap • Geometric Network • Python/arcpy • SQL • GIS QA/
 ### 🖼️ Electrical Network Overview
 
 <p align="center">
-  <img src="assets/icons/01-geometric-network-view.jpg" width="950"/>
+  <img src="assets/icons/01-geometric-network-view.jpg" width="475"/>
 </p>
 
 ---
@@ -282,18 +282,39 @@ ArcGIS Pro • ArcMap • Network Analysis • QA/QC • GIS Editing • Spatial
 ### 🖼️ Blockage Analysis Overview
 
 <p align="center">
-  <img src="assets/icons/02-blockage-analysis.jpg" width="950"/>
+  <img src="assets/icons/02-blockage-analysis.jpg" width="475"/>
 </p>
 
 ---
 
-## 🧹 Data Cleaning & Standardization
+## 🧹 <a href="https://github.com/DenPlus007/gis-data-cleaning-standardization/blob/main/README.md" target="_blank">Data Cleaning & Standardization</a>
 
 <p>
-  <img src="https://img.shields.io/badge/Data%20Quality-2ECC71?style=for-the-badge" />
+  <a href="https://github.com/DenPlus007/gis-data-cleaning-standardization/blob/main/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/Data%20Quality-2ECC71?style=for-the-badge" />
+  </a>
 </p>
 
-Procesos de saneamiento y normalización de bases GIS con mejora de calidad y eficiencia.
+Procesos de saneamiento, limpieza y normalización de bases GIS, orientados a mejorar la calidad, consistencia y confiabilidad de los datos espaciales.
+
+### 🔹 Funcionalidades
+
+- Limpieza de geometrías
+- Corrección de atributos
+- Normalización de nomenclaturas
+- Validación topológica
+- Eliminación de duplicados
+- Control de calidad espacial
+
+### 🛠️ Tecnologías
+
+ArcGIS Pro • Python/arcpy • SQL • Excel • QA/QC • Data Governance
+
+### 🖼️ Data Cleaning Overview
+
+<p align="center">
+  <img src="assets/icons/cleaning-standarization.png" width="475"/>
+</p>
 
 ---
 
@@ -317,11 +338,6 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 📓 <a href="https://quickest-stream-2d8.notion.site/Portafolio-GIS-Denise-Hern-ndez-3069dd2d2c5781cd9539e5bdc0ba14fe?pvs=74">Portafolio Notion</a>
 </p>
 
----
-
-<p align="center">
-⭐ Construyendo soluciones geoespaciales con impacto real
-</p>
 ---
 
 <p align="center">
