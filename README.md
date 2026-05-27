@@ -178,7 +178,7 @@ Leaflet • JavaScript • HTML • CSS • OpenStreetMap • GitHub Pages
 
 📄 <a href="https://github.com/DenPlus007/ecoomercemap-parque-patricios/blob/main/README.md" target="_blank">Project Documentation</a>
 
-### 🖼️ Captura
+### 🖼️ Regulatory Risk Overview
 
 <p align="center">
   <img src="assets/icons/thumbnail_ecomap_pp_linkedin.jpg" width="950"/>
@@ -213,7 +213,7 @@ Seguimiento, validación y actualización de ductos en GIS, asegurando calidad y
 
 ArcGIS Pro • ArcMap • Geometric Editing • QA/QC • Excel • GIS Infrastructure
 
-### 🖼️ Captura
+### 🖼️ Pipeline Workflow Overview
 
 <p align="center">
   <img src="assets/icons/01-pipeline-workflow.jpg" width="950"/>
@@ -244,7 +244,7 @@ Modelado y edición de redes eléctricas en entorno GIS, incluyendo validación 
 
 ArcGIS Pro • ArcMap • Geometric Network • Python/arcpy • SQL • GIS QA/QC
 
-### 🖼️ Captura
+### 🖼️ Electrical Network Overview
 
 <p align="center">
   <img src="assets/icons/01-geometric-network-view.jpg" width="950"/>
