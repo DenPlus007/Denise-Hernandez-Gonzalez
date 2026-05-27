@@ -181,7 +181,7 @@ Leaflet • JavaScript • HTML • CSS • OpenStreetMap • GitHub Pages
 ### 🖼️ Captura
 
 <p align="center">
-  <img src="assets/projects/ecomap.jpg" width="950"/>
+  <img src="assets/icons/thumbnail_ecomap_pp_linkedin.jpg" width="950"/>
 </p>
 
 ### 📚 Contexto
@@ -216,7 +216,7 @@ ArcGIS Pro • ArcMap • Geometric Editing • QA/QC • Excel • GIS Infrastr
 ### 🖼️ Captura
 
 <p align="center">
-  <img src="assets/projects/pipeline-tracking.jpg" width="950"/>
+  <img src="assets/icons/01-pipeline-workflow.jpg" width="950"/>
 </p>
 
 ---
@@ -247,7 +247,7 @@ ArcGIS Pro • ArcMap • Geometric Network • Python/arcpy • SQL • GIS QA/
 ### 🖼️ Captura
 
 <p align="center">
-  <img src="assets/projects/electrical-network.jpg" width="950"/>
+  <img src="assets/icons/01-geometric-network-view.jpg" width="950"/>
 </p>
 
 ---
@@ -293,10 +293,6 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 </p>
 
 ---
-
-<p align="center">
-⭐ Construyendo soluciones geoespaciales con impacto real
-</p>
 
 <p align="center">
 ⭐ Construyendo soluciones geoespaciales con impacto real
