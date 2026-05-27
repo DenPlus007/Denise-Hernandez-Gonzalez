@@ -318,9 +318,3 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 <p align="center">
 ⭐ Construyendo soluciones geoespaciales con impacto real
 </p>
-
----
-
-<p align="center">
-⭐ Construyendo soluciones geoespaciales con impacto real
-</p>
