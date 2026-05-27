@@ -4,6 +4,10 @@
   <img src="assets/icons/den.png" width="85" style="vertical-align: middle; margin-left: 10px;"/>
 </h1>
 
+<p align="center">
+  <img src="assets/icons/DEN.png" width="1000"/>
+</p>
+
 <h3 align="center">GIS Analyst | Spatial Data | Network Analysis | Data & Automation</h3>
 
 <p align="center">
@@ -313,6 +317,11 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 📓 <a href="https://quickest-stream-2d8.notion.site/Portafolio-GIS-Denise-Hern-ndez-3069dd2d2c5781cd9539e5bdc0ba14fe?pvs=74">Portafolio Notion</a>
 </p>
 
+---
+
+<p align="center">
+⭐ Construyendo soluciones geoespaciales con impacto real
+</p>
 ---
 
 <p align="center">
