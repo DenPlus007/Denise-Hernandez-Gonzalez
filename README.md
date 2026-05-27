@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <span style="color:#2C7AC3;">D</span>enise 
   <span style="color:#6B8E23;">H</span>ernández
@@ -10,7 +8,7 @@
 
 <p align="center">
 GIS Analyst enfocada en análisis geoespacial, calidad de datos y optimización de procesos. <br>
-Actualmente desarrollando soluciones de GIS aplicadas a infraestructura, análisis de datos, automatización y tecnologías basadas en IA.
+Actualmente desarrollando soluciones GIS aplicadas a infraestructura, análisis de datos, automatización y tecnologías basadas en IA.
 </p>
 
 ---
@@ -37,6 +35,20 @@ Actualmente desarrollando soluciones de GIS aplicadas a infraestructura, anális
 
 <p>
 ArcGIS Pro • ArcGIS Online • Leaflet
+</p>
+
+---
+
+### 🌐 WebGIS & Interactive Mapping
+<p>
+  <img src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" width="50"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="50"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="50"/>
+</p>
+
+<p>
+OpenStreetMap • WebGIS • Interactive Mapping • Spatial Visualization
 </p>
 
 ---
@@ -116,6 +128,38 @@ Claude • GitHub Copilot • AI Agents • n8n
 
 ## 📂 Proyectos Destacados
 
+### 🌎 EcoMap PP — Interactive Commercial & Regulatory Risk Map
+<p>
+  <img src="https://img.shields.io/badge/WebGIS-2C7AC3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge" />
+</p>
+
+Aplicación WebGIS interactiva desarrollada para visualización y análisis territorial de comercios en Parque Patricios (CABA), incorporando clasificación comercial, mapas de calor y lógica de riesgo regulatorio.
+
+#### 🔹 Funcionalidades
+- Visualización geoespacial interactiva
+- Heat Map de Riesgo Regulatorio
+- Clasificación de comercios por categoría
+- Popups dinámicos con información contextual
+- Integración OpenStreetMap + Leaflet
+- Análisis exploratorio territorial
+
+#### 🛠️ Tecnologías
+Leaflet • JavaScript • HTML • CSS • OpenStreetMap • GitHub Pages
+
+#### 🚀 Demo & Repositorio
+🌐 Demo Web:  
+https://denplus007.github.io/ecommercemap-parque-patricios/
+
+💻 GitHub:  
+https://github.com/DenPlus007/ecoomercemap-parque-patricios
+
+#### 📚 Contexto
+Proyecto desarrollado como práctica aplicada de un curso de Mapas Interactivos con Leaflet (Udemy), expandido con conceptos de análisis territorial y visualización GIS web.
+
+---
+
 ### 🛢️ Pipeline Replacement Tracking
 <p>
   <img src="https://img.shields.io/badge/Pipeline%20Tracking-6E2C00?style=for-the-badge" />
@@ -160,6 +204,7 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 ✔️ Data Quality & Data Governance  
 ✔️ Automatización de workflows  
 ✔️ AI-assisted development  
+✔️ WebGIS & Interactive Mapping  
 
 ---
 
@@ -170,7 +215,6 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 📧 <a href="mailto:denise.hernandez.ar@gmail.com">denise.hernandez.ar@gmail.com</a><br>
 📓 <a href="https://quickest-stream-2d8.notion.site/Portafolio-GIS-Denise-Hern-ndez-3069dd2d2c5781cd9539e5bdc0ba14fe?pvs=74">Portafolio Notion</a>
 </p>
-
 ---
 
 <p align="center">
