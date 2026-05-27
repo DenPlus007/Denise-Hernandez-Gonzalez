@@ -252,13 +252,34 @@ ArcGIS Pro • ArcMap • Geometric Network • Python/arcpy • SQL • GIS QA/
 
 ---
 
-## 🛣️ Road Network Management
+## 🛣️ <a href="https://github.com/DenPlus007/gis-road-network-management" target="_blank">Road Network Management</a>
 
 <p>
-  <img src="https://img.shields.io/badge/Road%20Network-34495E?style=for-the-badge" />
+  <a href="https://github.com/DenPlus007/gis-road-network-management" target="_blank">
+    <img src="https://img.shields.io/badge/Road%20Network-34495E?style=for-the-badge" />
+  </a>
 </p>
 
-Edición y análisis de caminos de acceso, conectividad y jerarquía de red.
+Gestión, edición y análisis de redes viales en entorno GIS, incluyendo conectividad, jerarquía vial y control de calidad espacial.
+
+### 🔹 Funcionalidades
+
+- Edición de caminos y accesos
+- Gestión de conectividad vial
+- Validación topológica
+- Corrección geométrica
+- Control de calidad espacial
+- Jerarquización de red vial
+
+### 🛠️ Tecnologías
+
+ArcGIS Pro • ArcMap • Network Analysis • QA/QC • GIS Editing • Spatial Data
+
+### 🖼️ Blockage Analysis Overview
+
+<p align="center">
+  <img src="assets/icons/road-network-overview.jpg" width="950"/>
+</p>
 
 ---
 
@@ -292,6 +313,11 @@ Procesos de saneamiento y normalización de bases GIS con mejora de calidad y ef
 📓 <a href="https://quickest-stream-2d8.notion.site/Portafolio-GIS-Denise-Hern-ndez-3069dd2d2c5781cd9539e5bdc0ba14fe?pvs=74">Portafolio Notion</a>
 </p>
 
+---
+
+<p align="center">
+⭐ Construyendo soluciones geoespaciales con impacto real
+</p>
 ---
 
 <p align="center">
